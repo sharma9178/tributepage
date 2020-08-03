@@ -1,0 +1,32 @@
+.container{
+  background-color:#d4d7dd;
+  width:100%;
+  height:auto;  
+}
+.title{
+  padding-top:30px;
+  text-align:center;
+}
+.details{
+  border:0.5px groove;
+  border-color:grey;
+}
+.image{
+  border-radius:100%;
+  width:30%;
+}
+.middle-section{
+  border:groove;
+  border-radius:2%;
+  margin-top:3%;
+}
+.bottom-name{
+  background-color:grey;
+  padding:2%;
+}
+a{
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:underline;
+}
